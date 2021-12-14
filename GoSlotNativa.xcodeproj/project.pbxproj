@@ -56,7 +56,6 @@
 		A99D10672725D1E300818B9F /* SignInView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A99D10662725D1E300818B9F /* SignInView.swift */; };
 		A99D10692725D1F500818B9F /* ForgotPasswordView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A99D10682725D1F500818B9F /* ForgotPasswordView.swift */; };
 		A99D10712725D26D00818B9F /* AuthViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A99D10702725D26D00818B9F /* AuthViewModel.swift */; };
-		A99D10732725FC0000818B9F /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = A99D10722725FC0000818B9F /* GoogleService-Info.plist */; };
 		A9A6E02D275CC3F4006D53F4 /* NotificationsCellViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9A6E02C275CC3F4006D53F4 /* NotificationsCellViewModel.swift */; };
 		A9A6E02F275FF91C006D53F4 /* LazyView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9A6E02E275FF91C006D53F4 /* LazyView.swift */; };
 		A9A6E033276266CD006D53F4 /* MessageChatView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9A6E032276266CD006D53F4 /* MessageChatView.swift */; };
@@ -111,7 +110,6 @@
 		A99D10662725D1E300818B9F /* SignInView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignInView.swift; sourceTree = "<group>"; };
 		A99D10682725D1F500818B9F /* ForgotPasswordView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForgotPasswordView.swift; sourceTree = "<group>"; };
 		A99D10702725D26D00818B9F /* AuthViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AuthViewModel.swift; sourceTree = "<group>"; };
-		A99D10722725FC0000818B9F /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		A9A6E02C275CC3F4006D53F4 /* NotificationsCellViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotificationsCellViewModel.swift; sourceTree = "<group>"; };
 		A9A6E02E275FF91C006D53F4 /* LazyView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LazyView.swift; sourceTree = "<group>"; };
 		A9A6E032276266CD006D53F4 /* MessageChatView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MessageChatView.swift; sourceTree = "<group>"; };
@@ -184,7 +182,6 @@
 				A99D10512725D08B00818B9F /* Utils */,
 				A99D10502725D05100818B9F /* View */,
 				A99D10132725769000818B9F /* GoSlotNativaApp.swift */,
-				A99D10722725FC0000818B9F /* GoogleService-Info.plist */,
 				A99D10172725769500818B9F /* Assets.xcassets */,
 				A99D10192725769500818B9F /* Preview Content */,
 			);
@@ -474,7 +471,6 @@
 			files = (
 				A99D101B2725769500818B9F /* Preview Assets.xcassets in Resources */,
 				A99D10182725769500818B9F /* Assets.xcassets in Resources */,
-				A99D10732725FC0000818B9F /* GoogleService-Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

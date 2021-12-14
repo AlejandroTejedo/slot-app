@@ -11,7 +11,7 @@ struct BackendService {
     
     static func uploadPostBackend() {
             
-            guard let url = URL(string: "https://api.goslot.es/posts") else {return}
+            guard let url = URL(string: "API URL") else {return}
 
         /*    var urlSessionConfiguration = URLSessionConfiguration.default
             var urlSession = URLSession(configuration: urlSessionConfiguration)*/
