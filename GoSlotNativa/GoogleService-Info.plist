@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>938618182602-cla17u2h2e8c270hlbf8l29dkv45qa56.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.938618182602-cla17u2h2e8c270hlbf8l29dkv45qa56</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCtT94TWVxRDyA53gubb7WzP5S7Nod0f1A</string>
+	<key>GCM_SENDER_ID</key>
+	<string>938618182602</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.slot.GoSlotNativa</string>
+	<key>PROJECT_ID</key>
+	<string>goslotnativa-79a1f</string>
+	<key>STORAGE_BUCKET</key>
+	<string>goslotnativa-79a1f.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:938618182602:ios:d86edf96d8a24b99b34d33</string>
+</dict>
+</plist>
